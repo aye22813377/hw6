@@ -1,0 +1,22 @@
+.gallery li {
+    float: left;
+    width: 130px;
+    list-style: none;
+    border: 1px solid black;
+    text-align: center;
+    margin: 5px;
+    border-radius: 20px;
+
+
+  }
+#container{
+    position: sticky;
+    top: 20px;
+    display: inline-block;
+  }
+  h2{
+    text-align: center;
+  }
+  h4{
+    text-align: center;
+  }
